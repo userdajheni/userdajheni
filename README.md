@@ -3,7 +3,7 @@
 
 Me chamo **Jheniffer**, mas se ficarmos íntimos é Jheni pra você
 
-    🎓 Curso Mídias Digitais &nbsp; 
+    🎓 Curso Mídias Digitais 
     
     💼 Mercado de trabalho: atuando como agente de administração pública
     
