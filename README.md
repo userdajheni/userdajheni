@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Me chamo **Jheniffer**, mas ficarmos íntimos é Jheni pra você
+Me chamo **Jheniffer**, mas se ficarmos íntimos é Jheni pra você
 
     🎓 Curso Mídias Digitais &nbsp; 
     
