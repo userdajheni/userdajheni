@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**userdajheni/userdajheni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Me chamo **Jheniffer**, mas se for íntima é Jheni pra você
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+    🎓 Curso Mídias Digitais
+    👩🏼‍🏫 Mercado de trabalho: atuando como agente de administração pública. 
+    🌱 Constantemente aperfeiçoando meus conhecimentos sobre front-end
+    📍 São Paulo
+    
+    
+    
+    
+# ⚡Tecnologias
+Estas são algumas das tecnologias e ferramentas com as quais trabalho: 
