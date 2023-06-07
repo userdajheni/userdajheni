@@ -23,7 +23,7 @@ Me chamo **Jheniffer**, mas se ficarmos íntimos é Jheni pra você
 <div>
 <a href="https://github.com/userdajheni">
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=userdajheni&layout=compact&langs_count=7&theme=radical"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=userdajheni&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=userdajheni&show_icons=true&theme=radical">
 </div>
 
 <br>
