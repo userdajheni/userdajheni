@@ -15,6 +15,7 @@ Me chamo **Jheniffer**, mas se ficarmos íntimos é Jheni pra você
 <div>
     <ul>
         <li><a href="https://www.beecrowd.com.br/judge/pt/profile/857742" target="_blank">beecrowd</a></li>
+        <li><a href="https://exercism.org/profiles/userdajheni" target="_blank">exercism.org</a></li>
     </ul>
 </div>
     
