@@ -10,6 +10,13 @@ Me chamo **Jheniffer**, mas se ficarmos íntimos é Jheni pra você
     🚀 Constantemente aperfeiçoando meus conhecimentos sobre front-end
     
     🗺️ Barueri, São Paulo
+
+**Onde treino programação:**
+<div>
+    <ul>
+        <li><a href="https://www.beecrowd.com.br/judge/pt/profile/857742" target="_blank">beecrowd</a></li>
+    </ul>
+</div>
     
 <div> 
     <a href="https://www.instagram.com/userdajheni_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
